@@ -36,4 +36,5 @@ input, textarea, select {
 }
 .inline {
     width: unset;
+    margin: 0, 0, 0, 0.5em;
 }
